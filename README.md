@@ -10,7 +10,7 @@ DAN: @dahliar<br/>
 RIM: @rizzamandasari<br/>
 IZM: @indraazimi<br/>
 
-### Membuat Issue Baru<br/>
+### Membuat Issue (Pertanyaan/ Diskusi) Baru<br/>
 Klik tab issue. Ketika sudah masuk ke tab issue, klik button new issue di sudut kanan atas (berwarna hijau)<br/>
 Masukkan juga kelas kalian pada label (misal, 44-02) supaya lebih jelas dari kelas apa
 
