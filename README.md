@@ -5,7 +5,7 @@ Dear all, silahkan didiskusikan masalah yang terjadi pada saat praktikum Impleme
 Tolong mention juga dosen kelas supaya bisa ketahuan kalau kalian bertanya :)
 
 ### List dosen IMA:<br/>
-IZM: @indraazimi<br/>
 CAH: @cahyana78<br/>
 DAN: @dahliar<br/>
 RIM: @rizzamandasari<br/>
+IZM: @indraazimi<br/>
